@@ -124,4 +124,4 @@ Run the following command to check if the deployment was created successfully:
 
 `gcloud run services list --platform managed`
 
-A list of Cloud Run services is displayed. Click on the URL of your deployment and enjoy the result!
+A list of Cloud Run services is displayed. Click on the URL of your deployment and enjoy the result! test
